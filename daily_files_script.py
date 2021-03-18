@@ -16,7 +16,7 @@ import os
 
 execTime = time.time()
 
-directory1 = '/Volumes/G-Drive with Thunderbolt/'
+directory1 = 'D:/hengheng zhang/Linux/EAR5/'
 directory2 = '/Volumes/jules_eh2/'
 directory3 = '/Volumes/FREECOM HDD/'
 directory4 = '/Volumes/LaCie/'

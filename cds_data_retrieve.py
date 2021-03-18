@@ -14,7 +14,7 @@ import pandas as pd
 c = cdsapi.Client()
 
 
-os.chdir('/Volumes/G-DRIVE with Thunderbolt/era5_minimum_2m_temperature_since_previous_post_processing/')
+os.chdir('D:/hengheng zhang/Linux/EAR5/era5_minimum_2m_temperature_since_previous_post_processing/')
 
 
 def retrieve_func(day, month, year,parameter,filename):

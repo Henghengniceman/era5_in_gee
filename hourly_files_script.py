@@ -19,10 +19,10 @@ execTime = time.time()
 yearList=['1980']
 time_step='hourly'
 
-directory1 = '/Volumes/G-DRIVE with Thunderbolt/'
-directory2 = '/Volumes/jules_eh2/'
-directory3 = '/Volumes/FREECOM HDD/'
-directory4 = '/Volumes/LaCie/'
+directory1 = 'D:/hengheng zhang/Linux/EAR5/'
+directory2 = 'D:/hengheng zhang/Linux/jules_eh2/'
+directory3 = 'D:/hengheng zhang/Linux/FREECOM HDD/'
+directory4 = 'D:/hengheng zhang/Linux/LaCie/'
 
 bucket_t2m = 'era5_t2m_daily'
 bucket_tp = 'era5_tp_daily'
@@ -34,8 +34,8 @@ bucket_2d = 'era5_2d_daily'
 bucket_u10 = 'era5_u10_daily'
 bucket_v10 = 'era5_v10_daily'
 
-directory_manifest = '/Volumes/jules_eh3/manifests/'
-directory_outfile = '/Volumes/jules_eh3/manifests/era5_hourly/'
+directory_manifest = 'D:/hengheng zhang/Linux/jules_eh3/manifests/'
+directory_outfile = 'D:/hengheng zhang/Linux/jules_eh3/manifests/era5_hourly/'
 
 directory_list=[directory1+'/era5_t2m/',
                 directory1+'/era5_minimum_2m_temperature_since_previous_post_processing',
